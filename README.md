@@ -4,17 +4,17 @@ This repository contains various AI projects developed for academic assignments,
 
 ## Projects
 
-### 1. Monkey Business Detection using Bayesian Networks
-- **Description:** Bayesian Network predicting monkey locations on a grid based on sensor inputs.
-- **Project Structure:** BayesNet, Coordinate, DistribList, Formulas, Main.
+### 1. A* Search for Optimal Path in Road Network
+- **Description:** A* search algorithm implementation to find optimal paths in a road network considering speed limits.
+- **Project Structure:** Location, Main, Node, Road, RoadNetwork, SearchAStar, Geometry, PriQueue.
 
-### 2. Connect-4 AI Game
+### 4. Connect-4 AI Game
 - **Description:** AI opponent using Minimax, Alpha-Beta Pruning, and heuristic evaluation for Connect-4.
 - **Project Structure:** Main, GameState, MiniMaxInfo, Player, AlphaBetaMiniMax, Board.
 
-### 3. A* Search for Optimal Path in Road Network
-- **Description:** A* search algorithm implementation to find optimal paths in a road network considering speed limits.
-- **Project Structure:** Location, Main, Node, Road, RoadNetwork, SearchAStar, Geometry, PriQueue.
+### 3. Monkey Business Detection using Bayesian Networks
+- **Description:** Bayesian Network predicting monkey locations on a grid based on sensor inputs.
+- **Project Structure:** BayesNet, Coordinate, DistribList, Formulas, Main.
 
 ### 4. Spam Email Classifier with Naive Bayes
 - **Description:** Naive Bayes classifier for spam detection in emails using word frequencies.
