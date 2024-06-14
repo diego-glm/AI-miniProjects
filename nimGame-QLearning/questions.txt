@@ -1,0 +1,14 @@
+1. What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
+Answer: No bugs or conceptual difficulties I encounter. This project was very similar to project 3 so I relay on that.
+
+2. Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, but do include any help from other sources, such as websites or people (including classmates and friends) and attribute them by name.
+Answer: I copy the Player class implementation from the connect-4 project.
+
+3. Describe any serious problems you encountered while writing the program.
+Answer: I had to debug to figure out why the update function stop to one call of "gamma * min/max(Q(s', a'))". The issue was using Double.<Neg/Pos>_INFINITY
+        and making sure to return 0.0 when no Q values were found.
+
+4. Mention any challenges that you did. Answer: None.
+
+5. List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment, and whether you enjoyed doing it.
+Answer: I enjoy this project because this gives me enough imagination in how I would employ this algorithm with other board/mini games.

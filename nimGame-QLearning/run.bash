@@ -1,0 +1,1 @@
+cd /run/media/diegoglm/FFFF-7B36/COMP372_AI/Project5 ; /usr/bin/env /usr/lib/jvm/java-21-openjdk/bin/java --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /run/media/diegoglm/FFFF-7B36/COMP372_AI/Project5/bin Project5 < input1.txt
