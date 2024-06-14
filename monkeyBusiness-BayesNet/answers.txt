@@ -1,0 +1,22 @@
+1. What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
+      I encounter the issue of representing a probability distribution. At first, I was going to create a 2d grid
+      for each features which contains the probabilities for each given locations. However, I opted to only leave
+      Last Location as the grid. The other features were created with my DistribList object which is a HashMap with
+      Keys mapping to "given" and Values being a list of "outcomes" associated to that given.
+          (Ex: P(Outcomes|Given), Map<Given : List[Outcomes, P()]>)
+
+2. Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, but do
+   include any help from other sources, such as websites or people (including classmates and friends) and attribute
+   them by name.
+        I relay on GreeksForGreeks article of BigDecimal to understand how and when to use BigDecimals.
+
+3. Describe any serious problems you encountered while writing the program.
+        No serious problem.
+
+4. Mention any challenges that you did.
+      No challenges were attempted.
+
+5. List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment,
+   and whether you enjoyed doing it.
+      I Enjoy this particular assignment because it was my first time implementing a math problem (probabilities) into
+      a OOP style.
