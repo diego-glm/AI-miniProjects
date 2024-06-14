@@ -1,0 +1,1 @@
+/usr/bin/env /usr/lib/jvm/java-21-openjdk/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /run/media/diegoglm/Flash128GB/COMP372_AI/project4/bin Project4 < input.txt

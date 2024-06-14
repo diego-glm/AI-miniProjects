@@ -1,0 +1,8 @@
+train-spam.txt
+train-ham.txt
+test-spam.txt
+test-ham.txt
+train-spam-small.txt
+train-ham-small.txt
+test-spam-small.txt
+test-ham-small.txt
